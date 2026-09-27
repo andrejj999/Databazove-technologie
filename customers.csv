@@ -1,0 +1,31 @@
+customer_id,customer_name,segment,country,region
+C001,Customer_1,Consumer,Kenya,East
+C002,Customer_2,Consumer,South Africa,East
+C003,Customer_3,Home Office,Ghana,South
+C004,Customer_4,Home Office,South Africa,West
+C005,Customer_5,Home Office,South Africa,South
+C006,Customer_6,Consumer,South Africa,South
+C007,Customer_7,Consumer,Kenya,East
+C008,Customer_8,Corporate,Nigeria,Central
+C009,Customer_9,Corporate,South Africa,South
+C010,Customer_10,Corporate,South Africa,West
+C011,Customer_11,Corporate,South Africa,West
+C012,Customer_12,Consumer,South Africa,South
+C013,Customer_13,Consumer,Ghana,West
+C014,Customer_14,Home Office,Ghana,South
+C015,Customer_15,Corporate,Ghana,Central
+C016,Customer_16,Home Office,Kenya,Central
+C017,Customer_17,Consumer,South Africa,Central
+C018,Customer_18,Consumer,Kenya,Central
+C019,Customer_19,Home Office,South Africa,Central
+C020,Customer_20,Consumer,Kenya,West
+C021,Customer_21,Consumer,Kenya,East
+C022,Customer_22,Consumer,Ghana,Central
+C023,Customer_23,Home Office,Nigeria,East
+C024,Customer_24,Home Office,Nigeria,East
+C025,Customer_25,Consumer,Kenya,West
+C026,Customer_26,Consumer,South Africa,Central
+C027,Customer_27,Corporate,Ghana,Central
+C028,Customer_28,Consumer,Nigeria,East
+C029,Customer_29,Home Office,Kenya,West
+C030,Customer_30,Corporate,Nigeria,West
